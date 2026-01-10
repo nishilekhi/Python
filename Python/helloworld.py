@@ -1,0 +1,5 @@
+print("My name is Akshita")
+print('My name is Akshita')
+print("I'm Akshita")
+print("Hi, im Akshita. \nI like Python")
+print("Here I am starting a tab, \tNow do you see the gap?")
