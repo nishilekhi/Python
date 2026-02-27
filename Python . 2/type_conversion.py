@@ -5,6 +5,7 @@ print(my_number*5)
 my_number = str(78) # type conversion
 print(my_number)
 print(my_number*5)
+
 print("Hello"*5)
 
 Year=2026
